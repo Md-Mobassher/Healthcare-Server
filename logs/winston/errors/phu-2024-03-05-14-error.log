@@ -1,0 +1,20 @@
+Fri May 03 2024 14:48:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Database `ph-healthcare` does not exist on the database server at `localhost:5432`.
+Fri May 03 2024 14:49:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+The table `public.appointments` does not exist in the current database.
+Fri May 03 2024 14:50:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Database `healthcare` does not exist on the database server at `localhost:5432`.
+Fri May 03 2024 14:52:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+The table `public.appointments` does not exist in the current database.
